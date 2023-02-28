@@ -1,4 +1,4 @@
-# Merlinil põhinev eesti keele kõnesüntesaator spontaannsete häälte jaoks
+# Merlinil põhinev eesti keele kõnesüntesaator spontaansete häälte jaoks
 
 ==============================================================================
 
